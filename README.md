@@ -192,16 +192,16 @@ fintech-customer-churn-analysis/
 │
 ├── README.md
 │
-├── Dashboard/
+├── Dashboard
 │   ├── Customer_Churn_Dashboard.xlsx
 │
-├── SQL/
+├── SQL
 │   └── sql_queries.sql
 │
-├── Dataset/
+├── Dataset
 │   └── BankChurners.csv
 │
-└── Screenshots/
+└── Screenshots
     ├── dashboard_overview.png
     ├── insights_recommendations.png
     ├── sql_queries.png
@@ -230,6 +230,7 @@ fintech-customer-churn-analysis/
 **Aditya Unnad**
 
 BBA Graduate | Aspiring Data Analyst
+
 LinkedIn: https://www.linkedin.com/in/aditya-h-unnad
 
 This project demonstrates how customer behavior, transaction activity, and engagement metrics can be translated into actionable retention strategies using SQL and Excel.
